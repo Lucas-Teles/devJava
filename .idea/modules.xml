@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/devdojo.iml" filepath="$PROJECT_DIR$/.idea/devdojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gerenciadorSeminarios/gerenciadorSeminarios.iml" filepath="$PROJECT_DIR$/gerenciadorSeminarios/gerenciadorSeminarios.iml" />
+    </modules>
+  </component>
+</project>
