@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstract/abstract.iml" filepath="$PROJECT_DIR$/abstract/abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/devdojo.iml" filepath="$PROJECT_DIR$/.idea/devdojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/enums/enums.iml" filepath="$PROJECT_DIR$/enums/enums.iml" />
       <module fileurl="file://$PROJECT_DIR$/gerenciadorSeminarios/gerenciadorSeminarios.iml" filepath="$PROJECT_DIR$/gerenciadorSeminarios/gerenciadorSeminarios.iml" />
