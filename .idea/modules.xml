@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/abstract/abstract.iml" filepath="$PROJECT_DIR$/abstract/abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/date/date.iml" filepath="$PROJECT_DIR$/date/date.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/devdojo.iml" filepath="$PROJECT_DIR$/.idea/devdojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/enums/enums.iml" filepath="$PROJECT_DIR$/enums/enums.iml" />
       <module fileurl="file://$PROJECT_DIR$/errorCustom/errorCustom.iml" filepath="$PROJECT_DIR$/errorCustom/errorCustom.iml" />
@@ -10,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/gerenciadorSeminarios/gerenciadorSeminarios.iml" filepath="$PROJECT_DIR$/gerenciadorSeminarios/gerenciadorSeminarios.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrappers/wrappers.iml" filepath="$PROJECT_DIR$/wrappers/wrappers.iml" />
     </modules>
   </component>
 </project>

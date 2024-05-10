@@ -17,9 +17,9 @@ public class LoginInvalidoTest01 {
         Scanner teclado = new Scanner(System.in);
         String usernameDB = "Lucas";
         String senhaDB = "Lssj";
-        System.out.println("Usuário: ");
+        System.out.print("Usuário: ");
         String usernameDigitado = teclado.nextLine();
-        System.out.println("Senha: ");
+        System.out.print("Senha: ");
         String senhaDigitada = teclado.nextLine();
 
         if(!usernameDB.equals(usernameDigitado) || !senhaDB.equals(senhaDigitada)){
