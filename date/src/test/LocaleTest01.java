@@ -1,31 +1,22 @@
 package test;
 
-import java.text.DateFormat;
+import java.time.LocalDate;
+import java.time.Month;
 import java.util.Calendar;
-import java.util.Locale;
+import java.util.Date;
 
 public class LocaleTest01 {
     public static void main(String[] args) {
-        Locale localeItaly = new Locale("it", "IT");
-        Locale localeCH = new Locale("it", "CH");
-        Locale localeIndia = new Locale("hi", "IN");
-        Locale localeJapan = new Locale("ja", "JP");
+        System.out.println(new Date());
+        System.out.println(Calendar.getInstance());
+        System.out.println(Month.JANUARY.getValue());
+        LocalDate date = LocalDate.of(2024,Month.JANUARY, 20);
+        System.out.println(date.getYear());
+        System.out.println(date.getDayOfWeek());
+        System.out.println(date.lengthOfMonth());
+        System.out.println(date.isLeapYear());
+        System.out.println(date.getDayOfMonth());
 
-
-        Calendar calendar = Calendar.getInstance();
-
-        DateFormat df1 = DateFormat.getDateInstance(DateFormat.FULL, localeItaly);
-        DateFormat df2 = DateFormat.getDateInstance(DateFormat.FULL, localeCH);
-        DateFormat df3 = DateFormat.getDateInstance(DateFormat.FULL, localeIndia);
-        DateFormat df4 = DateFormat.getDateInstance(DateFormat.FULL, localeJapan);
-
-        System.out.println("Italia: " + df1.format(calendar.getTime()));
-        System.out.println("Suiça: " + df2.format(calendar.getTime()));
-        System.out.println("India: " + df3.format(calendar.getTime()));
-        System.out.println("Japão: " + df4.format(calendar.getTime()));
-
-        System.out.println(localeItaly.getDisplayCountry(localeJapan));
-        System.out.println(localeCH.getDisplayCountry(localeIndia));
 
     }
 }

@@ -1,6 +1,6 @@
 package servico;
 
-import dominio.Produto;
+import domain.Produto;
 
 public class CalculadoraImposto {
     public static void calcularImposto(Produto produto){

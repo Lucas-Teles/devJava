@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/gerenciadorSeminarios/gerenciadorSeminarios.iml" filepath="$PROJECT_DIR$/gerenciadorSeminarios/gerenciadorSeminarios.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regex/regex.iml" filepath="$PROJECT_DIR$/regex/regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resourceBundle/resourceBundle.iml" filepath="$PROJECT_DIR$/resourceBundle/resourceBundle.iml" />
       <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/wrappers/wrappers.iml" filepath="$PROJECT_DIR$/wrappers/wrappers.iml" />
     </modules>

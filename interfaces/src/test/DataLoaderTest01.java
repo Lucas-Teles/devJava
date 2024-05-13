@@ -1,8 +1,8 @@
 package test;
 
-import dominio.DataBaseLoader;
-import dominio.DataLoader;
-import dominio.FileLoader;
+import domain.DataBaseLoader;
+import domain.DataLoader;
+import domain.FileLoader;
 
 public class DataLoaderTest01 {
     public static void main(String[] args) {

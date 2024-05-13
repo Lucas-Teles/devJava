@@ -1,6 +1,6 @@
 package test;
 
-import dominio.LoginInvalidoException;
+import domain.LoginInvalidoException;
 
 import java.util.Scanner;
 

@@ -1,8 +1,8 @@
 package teste;
 
-import dominio.Computador;
-import dominio.Televisao;
-import dominio.Tomate;
+import domain.Computador;
+import domain.Televisao;
+import domain.Tomate;
 import repositorio.Repositorio;
 import servico.CalculadoraImposto;
 import servico.RepositorioMemoria;

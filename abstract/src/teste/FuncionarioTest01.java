@@ -1,8 +1,7 @@
 package teste;
 
-import dominio.Desenvolvedor;
-import dominio.Funcionario;
-import dominio.Gerente;
+import domain.Desenvolvedor;
+import domain.Gerente;
 
 public class FuncionarioTest01 {
     public static void main(String[] args) {

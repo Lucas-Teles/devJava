@@ -1,9 +1,8 @@
 package main;
 
-import dominio.Cliente;
-import dominio.TipoCliente;
-import dominio.TipoPagamento;
-import org.w3c.dom.ls.LSOutput;
+import domain.Cliente;
+import domain.TipoCliente;
+import domain.TipoPagamento;
 
 public class ClienteTest {
 

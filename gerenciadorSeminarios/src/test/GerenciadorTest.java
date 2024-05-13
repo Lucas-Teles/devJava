@@ -1,9 +1,9 @@
 package test;
 
-import dominio.Aluno;
-import dominio.Local;
-import dominio.Professor;
-import dominio.Seminario;
+import domain.Aluno;
+import domain.Local;
+import domain.Professor;
+import domain.Seminario;
 
 public class GerenciadorTest {
     public static void main(String[] args) {
